@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bd95031.css",
+    "main.js": "/static/js/main.0a04fab2.js",
+    "static/js/453.0e01b7de.chunk.js": "/static/js/453.0e01b7de.chunk.js",
+    "static/media/qr_code.png": "/static/media/qr_code.41558d26dc9301aaf76f.png",
+    "static/media/KJTech.png": "/static/media/KJTech.6856cb53045bf96f74c0.png",
+    "static/media/dff_logo.png": "/static/media/dff_logo.cb0b525fe175d62cca38.png",
+    "index.html": "/index.html",
+    "main.2bd95031.css.map": "/static/css/main.2bd95031.css.map",
+    "main.0a04fab2.js.map": "/static/js/main.0a04fab2.js.map",
+    "453.0e01b7de.chunk.js.map": "/static/js/453.0e01b7de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bd95031.css",
+    "static/js/main.0a04fab2.js"
+  ]
+}
